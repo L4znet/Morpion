@@ -1,3 +1,3 @@
 # Morpion
 
-Un morpion réalisé dans le cadre de mes études.
+Un morpion réalisé dans le cadre de mon apprentissage du JS.
